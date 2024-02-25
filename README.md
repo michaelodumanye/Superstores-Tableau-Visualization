@@ -25,7 +25,7 @@ As a data expert, the project involves visualizing the following metrics:
 
 ## Usage
 1. Clone this repository:
-   git clone <repository-url>
+   git clone (https://github.com/michaelodumanye/Superstores-Tableau-Visualization.git)
 
 2. Navigate to the project directory:
    cd Superstores-Tableau
