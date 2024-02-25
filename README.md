@@ -35,7 +35,4 @@ As a data expert, the project involves visualizing the following metrics:
 4. Open the Tableau visualization files to interact with the visualizations.
 
 ## Contributors
-Michael Oko Odumanye(link-to-your-profile) - Data Analyst
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+Michael Oko Odumanye (https://github.com/michaelodumanye) - Data Analyst
